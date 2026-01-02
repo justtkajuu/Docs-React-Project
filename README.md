@@ -35,16 +35,6 @@ This project is part of my continuous learning journey and is not intended for p
 
 ---
 
-## 📁 Project Structure
-
-src/
-├─ components/
-├─ pages/
-├─ assets/
-├─ context/
-├─ hooks/
-├─ utils/
-└─ App.jsx
 
 🧠 What I Learned
 
@@ -58,6 +48,9 @@ Structuring projects for scalability
 
 Writing cleaner and more maintainable code
 
+## 🚀 Live Demo
+
+🔗 [Check it out on Netlify](https://docs-react-project.netlify.app/)
 
 📌 Note
 
